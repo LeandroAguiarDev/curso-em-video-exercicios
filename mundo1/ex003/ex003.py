@@ -1,4 +1,4 @@
-print ("Olá, bem-bendo! Eu sou um programa que realiza soma de números; ")
+print ("Olá, bem-vindo! Eu sou um programa que realiza soma de números; ")
 
 n1 = float (input ("Digite um valor para somar: "))
 n2 = float (input ("Digite outro valor para soma: "))
