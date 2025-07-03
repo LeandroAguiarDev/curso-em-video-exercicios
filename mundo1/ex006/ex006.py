@@ -2,10 +2,6 @@ print ("Olá, eu sou um programa que lê um número e mostra o seu Dobro, Triplo
 
 n = float (input ("Por favor, insira um número: "))
 
-d = n * 2 
-t = n * 3
-rq = n ** 2
-
-print ("Seu número escolhido é o {}, seu dobro é: {}, seu triplo é: {},".format(n, d, t), end=" ")
-print ("e sua raiz quadrada é: {}".format(rq))
+print ("Seu número escolhido é o {} e o seu dobro é: {} \nseu triplo é: {}".format(n, (n*2), (n*3)),)
+print ("e sua raiz quadrada é: {:.4f}".format(n**(1/2)))
 
