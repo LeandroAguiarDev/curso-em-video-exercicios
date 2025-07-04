@@ -5,13 +5,12 @@ sl = float (input ("Insira o salário atual do funcionário "))
 
 #Cálculo do novo salário
 
-au = sl * 0.15
-
-nl = sl + au
+#au = sl * 0.15
+#nl = sl + au
 
 #Informando o novo salário
 
-print ("Parabéns! o novo salário do seu funcionário é de R${:.2f}".format(nl))
+print ("Parabéns! o novo salário do seu funcionário é de R${:.2f}".format(sl + (sl * 0.15)))
 
 #Legendas:
 #sl = Salário

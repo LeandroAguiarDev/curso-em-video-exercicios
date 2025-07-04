@@ -2,6 +2,9 @@
 
 print ("Bem-vindo(a)! Sou uma calculadora de tinta para parede. ")
 print ("Com 1L de tinta, você consegue pintar 2m²")
+
+#Interação para receber os dados
+
 p1 = float (input ("Qual a largura da parede? "))
 p2 = float (input ("Qual a altura da parede? "))
 
