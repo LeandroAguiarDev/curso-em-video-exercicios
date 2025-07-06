@@ -1,4 +1,4 @@
-# Importar a bíblioteca necessária:
+# Importar a biblioteca necessária:
 
 import math
 
@@ -20,9 +20,10 @@ ta = math.tan(ra)
 
 print (f"\nO Ângulo de {an}º, tem o seno {se:.4f}, cosseno {co:.4f} e tangente {ta:.4f}!" )
 
-# Legendas
+# Legendas:
 # an = ângulo
 # ra = Radianos
 # se = Seno
 # co = Cosseno
 # ta = Tangente
+
