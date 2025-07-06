@@ -27,3 +27,6 @@ print (f"\nO Ângulo de {an}º, tem o seno {se:.4f}, cosseno {co:.4f} e tangente
 # co = Cosseno
 # ta = Tangente
 
+
+
+
